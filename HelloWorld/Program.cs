@@ -12,11 +12,6 @@ namespace HelloWorld
             string userLastName = Console.ReadLine();
 
             Console.WriteLine("Hello, " + userFirstName + " " + userLastName + "!");
-
-
-
-      
-
         }
     }
 }
