@@ -1,0 +1,13 @@
+/Users/janabojarova/Projects/HelloWorld/StringInterpolation/bin/Debug/netcoreapp3.1/StringInterpolation.deps.json
+/Users/janabojarova/Projects/HelloWorld/StringInterpolation/bin/Debug/netcoreapp3.1/StringInterpolation.runtimeconfig.json
+/Users/janabojarova/Projects/HelloWorld/StringInterpolation/bin/Debug/netcoreapp3.1/StringInterpolation.runtimeconfig.dev.json
+/Users/janabojarova/Projects/HelloWorld/StringInterpolation/bin/Debug/netcoreapp3.1/StringInterpolation.dll
+/Users/janabojarova/Projects/HelloWorld/StringInterpolation/bin/Debug/netcoreapp3.1/StringInterpolation.pdb
+/Users/janabojarova/Projects/HelloWorld/StringInterpolation/obj/Debug/netcoreapp3.1/StringInterpolation.csproj.AssemblyReference.cache
+/Users/janabojarova/Projects/HelloWorld/StringInterpolation/obj/Debug/netcoreapp3.1/StringInterpolation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/janabojarova/Projects/HelloWorld/StringInterpolation/obj/Debug/netcoreapp3.1/StringInterpolation.AssemblyInfoInputs.cache
+/Users/janabojarova/Projects/HelloWorld/StringInterpolation/obj/Debug/netcoreapp3.1/StringInterpolation.AssemblyInfo.cs
+/Users/janabojarova/Projects/HelloWorld/StringInterpolation/obj/Debug/netcoreapp3.1/StringInterpolation.csproj.CoreCompileInputs.cache
+/Users/janabojarova/Projects/HelloWorld/StringInterpolation/obj/Debug/netcoreapp3.1/StringInterpolation.dll
+/Users/janabojarova/Projects/HelloWorld/StringInterpolation/obj/Debug/netcoreapp3.1/StringInterpolation.pdb
+/Users/janabojarova/Projects/HelloWorld/StringInterpolation/obj/Debug/netcoreapp3.1/StringInterpolation.genruntimeconfig.cache
